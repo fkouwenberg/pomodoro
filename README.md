@@ -1,2 +1,2 @@
-# promodoro
+# pomodoro
 covid dashboard
